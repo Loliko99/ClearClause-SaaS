@@ -4,7 +4,7 @@
 | Polskie prawo | Ogólna wiedza | System prompt z KC, UOKiK, UOPK |
 | Kontekst | Użytkownik musi wiedzieć, o co pytać | System sam skanuje klauzule abuzywne |
 | UX | Odpowiedź tekstowa | Strukturalny raport z oceną |
-| Koszt | ~40 zł/mies. | 6 zł/analiza |
+| Koszt | ~40 zł/mies. | 6 zł/analiza po przekroczeniu 1500znaków |
 
 ---
 
@@ -19,7 +19,7 @@
 | **Kto** | Młodzi i dorośli (18–80 lat), studenci wynajmujący mieszkanie, freelancerzy (graficy, copywriterzy), osoby zaciągające pożyczki konsumenckie. Brak wykształcenia prawniczego, dochód 0–5 000 zł netto/mies. |
 | **Co (Main Job)** | Podpisać umowę szybko i pewnie — bez ryzyka, że ukryty zapis wpędzi ich w kłopoty finansowe |
 | **Ból** | Nie rozumieją paragrafów, boją się eksmisji i ukrytych kar, a na prawnika ich nie stać |
-| **Decision Criteria** | Szybkie (< 5 min), zrozumiałe, tanie (9 zł), z wiarygodnego źródła |
+| **Decision Criteria** | Szybkie (< 5 min), zrozumiałe, tanie (6 zł), z wiarygodnego źródła |
 | **Trigger** | Otrzymuje PDF umowy z 24–72 godz. na decyzję |
 
 ### Problem Matrix (Priority = Impact × Confidence × Ease)
