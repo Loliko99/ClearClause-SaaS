@@ -4,7 +4,7 @@
 | Polskie prawo | Ogólna wiedza | System prompt z KC, UOKiK, UOPK |
 | Kontekst | Użytkownik musi wiedzieć, o co pytać | System sam skanuje klauzule abuzywne |
 | UX | Odpowiedź tekstowa | Strukturalny raport z oceną |
-| Koszt | ~80 zł/mies. | 9 zł/analiza |
+| Koszt | ~40 zł/mies. | 6 zł/analiza |
 
 ---
 
