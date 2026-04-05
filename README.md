@@ -16,7 +16,7 @@
 
 | Pole | Opis |
 |---|---|
-| **Kto** | Młodzi dorośli (18–30 lat), studenci wynajmujący mieszkanie, freelancerzy (graficy, copywriterzy), osoby zaciągające pożyczki konsumenckie. Brak wykształcenia prawniczego, dochód 0–5 000 zł netto/mies. |
+| **Kto** | Młodzi i dorośli (18–80 lat), studenci wynajmujący mieszkanie, freelancerzy (graficy, copywriterzy), osoby zaciągające pożyczki konsumenckie. Brak wykształcenia prawniczego, dochód 0–5 000 zł netto/mies. |
 | **Co (Main Job)** | Podpisać umowę szybko i pewnie — bez ryzyka, że ukryty zapis wpędzi ich w kłopoty finansowe |
 | **Ból** | Nie rozumieją paragrafów, boją się eksmisji i ukrytych kar, a na prawnika ich nie stać |
 | **Decision Criteria** | Szybkie (< 5 min), zrozumiałe, tanie (9 zł), z wiarygodnego źródła |
